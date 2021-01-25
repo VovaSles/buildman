@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/.github.io/buildman/static/css/main.debae802.chunk.css",
-    "main.js": "/.github.io/buildman/static/js/main.6d423d3e.chunk.js",
-    "main.js.map": "/.github.io/buildman/static/js/main.6d423d3e.chunk.js.map",
-    "runtime-main.js": "/.github.io/buildman/static/js/runtime-main.9df0de1a.js",
-    "runtime-main.js.map": "/.github.io/buildman/static/js/runtime-main.9df0de1a.js.map",
-    "static/css/2.ae9f1eb3.chunk.css": "/.github.io/buildman/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.5201bbc1.chunk.js": "/.github.io/buildman/static/js/2.5201bbc1.chunk.js",
-    "static/js/2.5201bbc1.chunk.js.map": "/.github.io/buildman/static/js/2.5201bbc1.chunk.js.map",
-    "static/js/3.2d03b679.chunk.js": "/.github.io/buildman/static/js/3.2d03b679.chunk.js",
-    "static/js/3.2d03b679.chunk.js.map": "/.github.io/buildman/static/js/3.2d03b679.chunk.js.map",
-    "index.html": "/.github.io/buildman/index.html",
-    "static/css/2.ae9f1eb3.chunk.css.map": "/.github.io/buildman/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.debae802.chunk.css.map": "/.github.io/buildman/static/css/main.debae802.chunk.css.map",
-    "static/js/2.5201bbc1.chunk.js.LICENSE.txt": "/.github.io/buildman/static/js/2.5201bbc1.chunk.js.LICENSE.txt"
+    "main.css": "/buildman/static/css/main.debae802.chunk.css",
+    "main.js": "/buildman/static/js/main.6d423d3e.chunk.js",
+    "main.js.map": "/buildman/static/js/main.6d423d3e.chunk.js.map",
+    "runtime-main.js": "/buildman/static/js/runtime-main.dce5027a.js",
+    "runtime-main.js.map": "/buildman/static/js/runtime-main.dce5027a.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/buildman/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.fe486044.chunk.js": "/buildman/static/js/2.fe486044.chunk.js",
+    "static/js/2.fe486044.chunk.js.map": "/buildman/static/js/2.fe486044.chunk.js.map",
+    "static/js/3.2d03b679.chunk.js": "/buildman/static/js/3.2d03b679.chunk.js",
+    "static/js/3.2d03b679.chunk.js.map": "/buildman/static/js/3.2d03b679.chunk.js.map",
+    "index.html": "/buildman/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/buildman/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.debae802.chunk.css.map": "/buildman/static/css/main.debae802.chunk.css.map",
+    "static/js/2.fe486044.chunk.js.LICENSE.txt": "/buildman/static/js/2.fe486044.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9df0de1a.js",
+    "static/js/runtime-main.dce5027a.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.5201bbc1.chunk.js",
+    "static/js/2.fe486044.chunk.js",
     "static/css/main.debae802.chunk.css",
     "static/js/main.6d423d3e.chunk.js"
   ]
