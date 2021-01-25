@@ -74,7 +74,8 @@ function UsersPage(props) {
     return (
         <div>
             <AppNavbr activeUser={activeUser} onLogout={onLogout} />
-            <Container className="d-flex justify-content-center align-items-center" style={{marginTop: "100px"}}>
+            <Container className="d-flex justify-content-center align-items-center" 
+            >
                 
                 <Row>
                
