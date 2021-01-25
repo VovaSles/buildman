@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/buildman/static/css/main.debae802.chunk.css",
-    "main.js": "/buildman/static/js/main.6d423d3e.chunk.js",
-    "main.js.map": "/buildman/static/js/main.6d423d3e.chunk.js.map",
+    "main.js": "/buildman/static/js/main.583af5d0.chunk.js",
+    "main.js.map": "/buildman/static/js/main.583af5d0.chunk.js.map",
     "runtime-main.js": "/buildman/static/js/runtime-main.dce5027a.js",
     "runtime-main.js.map": "/buildman/static/js/runtime-main.dce5027a.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/buildman/static/css/2.ae9f1eb3.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.fe486044.chunk.js",
     "static/css/main.debae802.chunk.css",
-    "static/js/main.6d423d3e.chunk.js"
+    "static/js/main.583af5d0.chunk.js"
   ]
 }
